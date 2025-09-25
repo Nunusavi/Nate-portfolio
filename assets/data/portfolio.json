@@ -1,227 +1,227 @@
 {
-    "projects": [
-        {
-            "id": "atoze-engineering",
-            "title": "AtoZe Engineering",
-            "shortDescription": "Professional engineering services website",
-            "category": "Web Development",
-            "image": "./assets/images/atoze.png",
-            "liveUrl": "https://ato-ze-gob1.vercel.app/",
-            "githubUrl": "",
-            "services": [
-                "Web Development",
-                "UI/UX Design",
-                "SEO Optimization"
-            ],
-            "client": "AtoZe Engineering",
-            "duration": "80 hours",
-            "completionDate": "2024-01-15",
-            "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Bootstrap",
-                "Vercel"
-            ],
-            "description": "A comprehensive website for AtoZe Engineering showcasing their services and projects.",
-            "challenges": "Creating a responsive design that works well on both desktop and mobile while maintaining professional aesthetics.",
-            "solution": "Implemented a mobile-first approach with Bootstrap grid system and optimized images for fast loading.",
-            "features": [
-                "Responsive Design",
-                "Service Showcase",
-                "Project Gallery",
-                "Contact Form"
-            ],
-            "images": [
-                "./assets/images/atoze.png"
-            ],
-            "testimonial": {
-                "text": "Nate delivered an exceptional website that perfectly represents our engineering firm.",
-                "author": "AtoZe Engineering Team"
-            }
-        },
-        {
-            "id": "bella-training-center",
-            "title": "Bella Training Center",
-            "shortDescription": "Educational platform for training services",
-            "category": "Web Development",
-            "image": "./assets/images/bella.png",
-            "liveUrl": "https://bella-training-center.vercel.app/",
-            "githubUrl": "",
-            "services": [
-                "Web Development",
-                "UI Design",
-                "Content Management"
-            ],
-            "client": "Bella Training Center",
-            "duration": "60 hours",
-            "completionDate": "2023-11-20",
-            "technologies": [
-                "React",
-                "Tailwind CSS",
-                "Vercel",
-                "JavaScript"
-            ],
-            "description": "A modern training center website with course listings and registration functionality.",
-            "challenges": "Organizing complex course information in an intuitive way for users.",
-            "solution": "Created a categorized course system with search and filter capabilities.",
-            "features": [
-                "Course Catalog",
-                "Registration System",
-                "Instructor Profiles",
-                "Blog Section"
-            ],
-            "images": [
-                "./assets/images/bella.png"
-            ],
-            "testimonial": {
-                "text": "The website has significantly increased our course registrations.",
-                "author": "Bella Training Center"
-            }
-        },
-        {
-            "id": "taurus-real-estate",
-            "title": "Taurus Real Estate Website Remake",
-            "shortDescription": "Modern real estate platform remake",
-            "category": "Web Development",
-            "image": "./assets/images/Taurus.png",
-            "liveUrl": "https://nunusavi.github.io/Remake-of-taurus-realestate/",
-            "githubUrl": "https://github.com/Nunusavi/Remake-of-taurus-realestate",
-            "services": [
-                "Web Development",
-                "UI/UX Design",
-                "Responsive Design"
-            ],
-            "client": "Taurus Real Estate",
-            "duration": "45 hours",
-            "completionDate": "2023-10-10",
-            "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "GitHub Pages"
-            ],
-            "description": "A complete remake of Taurus Real Estate's website with modern design and improved functionality.",
-            "challenges": "Modernizing an outdated design while maintaining brand identity.",
-            "solution": "Redesigned with a contemporary aesthetic while preserving core brand elements.",
-            "features": [
-                "Property Listings",
-                "Search Filters",
-                "Agent Profiles",
-                "Contact System"
-            ],
-            "images": [
-                "./assets/images/Taurus.png"
-            ],
-            "testimonial": {
-                "text": "The new website has improved our online presence dramatically.",
-                "author": "Taurus Real Estate"
-            }
-        },
-        {
-            "id": "website-template",
-            "title": "Website Template",
-            "shortDescription": "Reusable website template for various purposes",
-            "category": "Web Development",
-            "image": "./assets/images/temp.png",
-            "liveUrl": "https://nunusavi.github.io/website-temp/",
-            "githubUrl": "https://github.com/Nunusavi/website-temp",
-            "services": [
-                "Template Development",
-                "UI Design",
-                "Code Optimization"
-            ],
-            "client": "Personal Project",
-            "duration": "30 hours",
-            "completionDate": "2023-09-15",
-            "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Bootstrap"
-            ],
-            "description": "A versatile website template that can be adapted for various business needs.",
-            "challenges": "Creating a flexible template that maintains consistency across different use cases.",
-            "solution": "Developed a modular component system with easy customization options.",
-            "features": [
-                "Modular Design",
-                "Responsive Layout",
-                "Easy Customization",
-                "Cross-browser Compatibility"
-            ],
-            "images": [
-                "./assets/images/temp.png"
-            ]
-        },
-        {
-            "id": "expensetrackr",
-            "title": "ExpenseTrackr",
-            "shortDescription": "Personal expense tracking application",
-            "category": "Web Application",
-            "image": "./assets/images/expense.png",
-            "liveUrl": "",
-            "githubUrl": "https://github.com/Nunusavi/ExpenseTrackr",
-            "services": [
-                "Web Application",
-                "Database Design",
-                "User Interface"
-            ],
-            "client": "Personal Project",
-            "duration": "120 hours",
-            "completionDate": "2023-08-20",
-            "technologies": [
-                "JavaScript",
-                "Local Storage",
-                "CSS3",
-                "HTML5"
-            ],
-            "description": "A comprehensive expense tracking application with categorization and reporting features.",
-            "challenges": "Implementing persistent data storage without a backend database.",
-            "solution": "Utilized browser's local storage with efficient data management techniques.",
-            "features": [
-                "Expense Categorization",
-                "Budget Tracking",
-                "Data Visualization",
-                "Export Capability"
-            ],
-            "images": [
-                "./assets/images/expense.png"
-            ]
-        },
-        {
-            "id": "quizapp",
-            "title": "QuizApp",
-            "shortDescription": "Interactive quiz application",
-            "category": "Web Application",
-            "image": "assets/images/portfolio-img.jpg",
-            "liveUrl": "",
-            "githubUrl": "https://github.com/Nunusavi/Quizapp",
-            "services": [
-                "Application Development",
-                "UI/UX Design",
-                "Interactive Features"
-            ],
-            "client": "Educational Project",
-            "duration": "40 hours",
-            "completionDate": "2023-07-10",
-            "technologies": [
-                "JavaScript",
-                "CSS3",
-                "HTML5",
-                "API Integration"
-            ],
-            "description": "An interactive quiz application with multiple question types and scoring system.",
-            "challenges": "Creating an engaging user experience with smooth transitions and feedback.",
-            "solution": "Implemented animated transitions and immediate feedback for user actions.",
-            "features": [
-                "Multiple Question Types",
-                "Scoring System",
-                "Timer Functionality",
-                "Progress Tracking"
-            ],
-            "images": [
-                "assets/images/portfolio-img.jpg"
-            ]
-        }
-    ]
+  "projects": [
+    {
+      "id": "atoze-engineering",
+      "title": "AtoZe Engineering",
+      "shortDescription": "Corporate website showcasing engineering services and projects.",
+      "category": "Web Development",
+      "image": "./assets/images/atoze.png",
+      "liveUrl": "https://ato-ze-gob1.vercel.app/",
+      "githubUrl": "",
+      "services": [
+        "Web Development",
+        "UI/UX Design",
+        "SEO Optimization"
+      ],
+      "client": "AtoZe Engineering",
+      "duration": "80 hours",
+      "completionDate": "2024-01-15",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "Vercel"
+      ],
+      "description": "I designed and developed a professional website for AtoZe Engineering, an established engineering firm that needed a strong digital presence to showcase their services and project portfolio. The goal was to create a modern, responsive platform that communicated trust and expertise while staying lightweight and fast.",
+      "challenges": "The main challenge was balancing a visually appealing design with the serious and professional tone required by an engineering company. Additionally, the site needed to load quickly across regions and be easy for the client to maintain without technical knowledge.",
+      "solution": "I adopted a mobile-first approach using Bootstrap’s grid system, optimized all media assets for performance, and structured the content around clarity and simplicity. I also incorporated SEO best practices to improve discoverability and future-proof the site.",
+      "features": [
+        "Fully responsive, mobile-first design",
+        "Structured service showcase",
+        "Dynamic project gallery",
+        "Contact form for client inquiries"
+      ],
+      "images": [
+        "./assets/images/atoze.png"
+      ],
+      "testimonial": {
+        "text": "Nate delivered an exceptional website that perfectly represents our engineering firm. The design is clean, professional, and has already helped us gain new clients.",
+        "author": "AtoZe Engineering Team"
+      }
+    },
+    {
+      "id": "bella-training-center",
+      "title": "Bella Training Center",
+      "shortDescription": "Educational platform with courses, registration, and content management.",
+      "category": "Web Development",
+      "image": "./assets/images/bella.png",
+      "liveUrl": "https://bella-training-center.vercel.app/",
+      "githubUrl": "",
+      "services": [
+        "Web Development",
+        "UI Design",
+        "Content Management"
+      ],
+      "client": "Bella Training Center",
+      "duration": "60 hours",
+      "completionDate": "2023-11-20",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "Vercel",
+        "JavaScript"
+      ],
+      "description": "I built a modern platform for Bella Training Center, a fast-growing educational organization offering diverse courses. The website needed to present courses in an intuitive catalog, allow smooth registration, and highlight the expertise of instructors. The client wanted a platform that would both attract new learners and streamline registrations.",
+      "challenges": "The biggest challenge was presenting large amounts of course information in a way that felt accessible rather than overwhelming. It was also important to make the platform flexible so that administrators could easily update content.",
+      "solution": "I designed a categorized course system with a clean UI, integrated search and filtering options, and created a scalable structure for future course additions. Using React and Tailwind CSS, I ensured performance and responsiveness across all devices.",
+      "features": [
+        "Course catalog with categories and filters",
+        "Student registration system",
+        "Instructor profile showcase",
+        "Blog section for educational resources"
+      ],
+      "images": [
+        "./assets/images/bella.png"
+      ],
+      "testimonial": {
+        "text": "The website has significantly increased our course registrations and made it easier for us to manage our content.",
+        "author": "Bella Training Center"
+      }
+    },
+    {
+      "id": "taurus-real-estate",
+      "title": "Taurus Real Estate Website Remake",
+      "shortDescription": "A modern redesign of Taurus Real Estate’s platform.",
+      "category": "Web Development",
+      "image": "./assets/images/Taurus.png",
+      "liveUrl": "https://nunusavi.github.io/Remake-of-taurus-realestate/",
+      "githubUrl": "https://github.com/Nunusavi/Remake-of-taurus-realestate",
+      "services": [
+        "Web Development",
+        "UI/UX Design",
+        "Responsive Design"
+      ],
+      "client": "Taurus Real Estate",
+      "duration": "45 hours",
+      "completionDate": "2023-10-10",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "GitHub Pages"
+      ],
+      "description": "I completely redesigned Taurus Real Estate’s website, transforming it from an outdated platform into a modern, user-friendly experience. The new version not only looks fresh but also helps users easily browse property listings, connect with agents, and explore opportunities.",
+      "challenges": "The old design was cluttered and difficult to navigate. I needed to create a modern layout that maintained the brand identity while introducing a cleaner and more intuitive user flow.",
+      "solution": "I restructured the website with a contemporary aesthetic, improved the navigation, and implemented property search filters. The result is a professional platform that elevates the brand’s digital presence.",
+      "features": [
+        "Property listings with images and details",
+        "Advanced search and filter system",
+        "Agent profiles with contact information",
+        "Integrated contact system"
+      ],
+      "images": [
+        "./assets/images/Taurus.png"
+      ],
+      "testimonial": {
+        "text": "The new website has improved our online presence dramatically and made it easier for clients to find the properties they’re looking for.",
+        "author": "Taurus Real Estate"
+      }
+    },
+    {
+      "id": "website-template",
+      "title": "Website Template",
+      "shortDescription": "A flexible and reusable website template for different business types.",
+      "category": "Web Development",
+      "image": "./assets/images/temp.png",
+      "liveUrl": "https://nunusavi.github.io/website-temp/",
+      "githubUrl": "https://github.com/Nunusavi/website-temp",
+      "services": [
+        "Template Development",
+        "UI Design",
+        "Code Optimization"
+      ],
+      "client": "Personal Project",
+      "duration": "30 hours",
+      "completionDate": "2023-09-15",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "description": "This is a reusable website template I developed as a personal project to help small businesses or individuals quickly establish a professional online presence. The template is flexible and modular, allowing easy customization without requiring deep coding knowledge.",
+      "challenges": "I wanted to design a template that could be used across different industries (restaurants, agencies, personal portfolios) while still looking consistent and polished.",
+      "solution": "I developed a modular system of components (hero section, service cards, testimonials, contact form) that can be easily rearranged or restyled. The code is optimized for performance and responsiveness.",
+      "features": [
+        "Clean modular design",
+        "Fully responsive layout",
+        "Easy customization via Bootstrap",
+        "Cross-browser compatibility"
+      ],
+      "images": [
+        "./assets/images/temp.png"
+      ]
+    },
+    {
+      "id": "expensetrackr",
+      "title": "ExpenseTrackr",
+      "shortDescription": "A personal finance web app for managing and analyzing expenses.",
+      "category": "Web Application",
+      "image": "./assets/images/expense.png",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Nunusavi/ExpenseTrackr",
+      "services": [
+        "Web Application",
+        "Database Design",
+        "User Interface"
+      ],
+      "client": "Personal Project",
+      "duration": "120 hours",
+      "completionDate": "2023-08-20",
+      "technologies": [
+        "JavaScript",
+        "Local Storage",
+        "CSS3",
+        "HTML5"
+      ],
+      "description": "ExpenseTrackr is a fully client-side expense management tool that allows users to log, categorize, and analyze their spending habits. I built it to improve my own personal budgeting and to experiment with persistent storage without using a backend.",
+      "challenges": "The key challenge was building a robust data management system without relying on a backend database, while ensuring data persistence across sessions.",
+      "solution": "I utilized browser Local Storage with efficient data serialization and retrieval techniques. I also built a simple but effective data visualization feature for monthly insights.",
+      "features": [
+        "Expense categorization system",
+        "Budget tracking with summaries",
+        "Interactive data visualizations",
+        "Export data as CSV"
+      ],
+      "images": [
+        "./assets/images/expense.png"
+      ]
+    },
+    {
+      "id": "quizapp",
+      "title": "QuizApp",
+      "shortDescription": "An interactive web app for quizzes and learning.",
+      "category": "Web Application",
+      "image": "assets/images/portfolio-img.jpg",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Nunusavi/Quizapp",
+      "services": [
+        "Application Development",
+        "UI/UX Design",
+        "Interactive Features"
+      ],
+      "client": "Educational Project",
+      "duration": "40 hours",
+      "completionDate": "2023-07-10",
+      "technologies": [
+        "JavaScript",
+        "CSS3",
+        "HTML5",
+        "API Integration"
+      ],
+      "description": "QuizApp is an engaging learning application I created to test knowledge through interactive quizzes. It supports multiple question types, a scoring system, and progress tracking, making it suitable for both fun and educational purposes.",
+      "challenges": "The main challenge was making the experience engaging, with smooth transitions and meaningful feedback after each answer.",
+      "solution": "I implemented animated transitions, instant scoring feedback, and a progress tracker to keep users motivated throughout the quiz.",
+      "features": [
+        "Multiple choice and true/false questions",
+        "Scoring and progress tracking",
+        "Built-in timer for challenges",
+        "API integration for question sets"
+      ],
+      "images": [
+        "assets/images/portfolio-img.jpg"
+      ]
+    }
+  ]
 }
