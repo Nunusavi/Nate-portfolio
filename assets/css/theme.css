@@ -2028,3 +2028,30 @@ body.loaded:after {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+/* Minimal additions for journal content */
+.project-journal h4 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.project-journal ul {
+    padding-left: 1.5rem;
+}
+
+.project-journal li {
+    margin-bottom: 0.5rem;
+}
+
+.project-journal blockquote {
+    border-left: 3px solid var(--accent-color);
+    padding-left: 1rem;
+    font-style: italic;
+}
+
+.project-journal cite {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.9em;
+    opacity: 0.8;
+}
